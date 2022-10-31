@@ -6,8 +6,8 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 header {
 	height: 50vh;
 	display: flex;
-	background: #FF5958;
-	color: white;
+	background: purple;
+	color: orange;
 }
 
 header h1 {
